@@ -23,11 +23,6 @@ I am the developer of [**Needy**](https://github.com/vibecoder-adil/needy-pdf-to
 *   Electron.js (Chromium & Node.js integration)
 *   Node.js
 
-#### **Libraries & APIs**
-*   `pdf-lib` (PDF structure & modification)
-*   `pdfjs-dist` (Canvas rendering & extraction)
-*   `tesseract.js` (Local OCR & Text Recognition)
-
 #### **Tools & Devops**
 *   Git & GitHub
 *   npm & electron-builder (production-grade installer packaging)
